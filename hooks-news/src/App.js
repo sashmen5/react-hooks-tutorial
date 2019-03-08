@@ -40,35 +40,51 @@ export default function App() {
 	};
 
 	return (
-		<>
-			<form onSubmit={handleSearch}>
+		<div className="container max-w-md mx-auto p-4 m-2 bg-purple-lightest shadow-lg rounded">
+			<img src="https://icon.now.sh/react/c0c" alt="React logo" className="float-right h-12"/>
+			<h1 className="text-grey-darkest font-thin">Hooks News</h1>
+			<form
+				onSubmit={handleSearch}
+				className="mb-2"
+			>
 				<input
+					className="border p-1 rounded"
 					type="text"
 					onChange={event => setQuery(event.target.value)}
 					value={query}
 					ref={searchInputRef}
 				/>
-				<button type="submit">Search</button>
-				<button type="button" onClick={handleClearSearch}>Clear</button>
-
+				<button
+					type="submit"
+					className="bg-orange rounded m-1 p-1"
+				>
+					Search
+				</button>
+				<button
+					type="button"
+					className="bg-teal text-white rounded m-1 p-1"
+					onClick={handleClearSearch}
+				>
+					Clear
+				</button>
 			</form>
 
 			{
 				loading
-				?
-				<div>Loading results...</div>
-				:
-				<ul>
-					{results.map(result => (
-						<li key={result.objectID}>
-							<a href={result.url}>{result.title}</a>
-						</li>
-					))}
-				</ul>
+					?
+					<div className="font-bold text-orange-dark">Loading results...</div>
+					:
+					<ul className="list-reset leading-normal">
+						{results.map(result => (
+							<li  key={result.objectID}>
+								<a className="text-indigo-dark hover:text-indigo-darkest" href={result.url}>{result.title}</a>
+							</li>
+						))}
+					</ul>
 			}
 			{
-				error && <div>{error.message}</div>
+				error && <div className="text-red font-bold">{error.message}</div>
 			}
-		</>
+		</div>
 	)
 }

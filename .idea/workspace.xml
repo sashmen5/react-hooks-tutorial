@@ -13,7 +13,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hooks-news/src/index.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="176">
@@ -25,11 +25,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hooks-news/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+            <state relative-caret-position="687">
+              <caret line="43" column="91" selection-start-line="43" selection-start-column="91" selection-end-line="43" selection-end-column="91" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -71,9 +71,9 @@
         <option value="$PROJECT_DIR$/react-hooks-intro/src/components/Login.js" />
         <option value="$PROJECT_DIR$/react-hooks-intro/src/index.js" />
         <option value="$PROJECT_DIR$/react-hooks-intro/src/components/Register.js" />
-        <option value="$PROJECT_DIR$/hooks-news/src/App.js" />
         <option value="$PROJECT_DIR$/hooks-news/public/index.html" />
         <option value="$PROJECT_DIR$/hooks-news/src/index.js" />
+        <option value="$PROJECT_DIR$/hooks-news/src/App.js" />
       </list>
     </option>
   </component>
@@ -145,12 +145,12 @@
       <option name="presentableId" value="Default" />
       <updated>1552030526961</updated>
       <workItem from="1552030529730" duration="4000" />
-      <workItem from="1552030540626" duration="10215000" />
+      <workItem from="1552030540626" duration="10741000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10219000" />
+    <option name="totallyTimeSpent" value="10745000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1294" height="1407" extended-state="0" />
@@ -243,22 +243,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hooks-news/src/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hooks-news/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hooks-news/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="687">
+          <caret line="43" column="91" selection-start-line="43" selection-start-column="91" selection-end-line="43" selection-end-column="91" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
           </folding>
         </state>
       </provider>
