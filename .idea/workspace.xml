@@ -13,11 +13,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hooks-news/src/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+            <state relative-caret-position="176">
+              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -25,11 +25,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hooks-news/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="501">
-              <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+            <state relative-caret-position="76">
+              <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -38,10 +38,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hooks-news/node_modules/react/cjs/react.development.js">
+        <entry file="file://$PROJECT_DIR$/hooks-news/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="416">
-              <caret line="1854" column="13" selection-start-line="1854" selection-start-column="13" selection-end-line="1854" selection-end-column="13" />
+            <state relative-caret-position="528">
+              <caret line="24" column="106" selection-start-line="24" selection-start-column="106" selection-end-line="24" selection-end-column="106" />
             </state>
           </provider>
         </entry>
@@ -71,8 +71,9 @@
         <option value="$PROJECT_DIR$/react-hooks-intro/src/components/Login.js" />
         <option value="$PROJECT_DIR$/react-hooks-intro/src/index.js" />
         <option value="$PROJECT_DIR$/react-hooks-intro/src/components/Register.js" />
-        <option value="$PROJECT_DIR$/hooks-news/src/index.js" />
         <option value="$PROJECT_DIR$/hooks-news/src/App.js" />
+        <option value="$PROJECT_DIR$/hooks-news/public/index.html" />
+        <option value="$PROJECT_DIR$/hooks-news/src/index.js" />
       </list>
     </option>
   </component>
@@ -144,12 +145,12 @@
       <option name="presentableId" value="Default" />
       <updated>1552030526961</updated>
       <workItem from="1552030529730" duration="4000" />
-      <workItem from="1552030540626" duration="9359000" />
+      <workItem from="1552030540626" duration="10215000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9363000" />
+    <option name="totallyTimeSpent" value="10219000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1294" height="1407" extended-state="0" />
@@ -228,29 +229,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hooks-news/src/index.js">
+    <entry file="file://$PROJECT_DIR$/hooks-news/node_modules/react/cjs/react.development.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="438">
+          <caret line="1843" column="4" selection-start-line="1843" selection-start-column="4" selection-end-line="1843" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hooks-news/node_modules/react/cjs/react.development.js">
+    <entry file="file://$PROJECT_DIR$/hooks-news/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="1854" column="13" selection-start-line="1854" selection-start-column="13" selection-end-line="1854" selection-end-column="13" />
+        <state relative-caret-position="528">
+          <caret line="24" column="106" selection-start-line="24" selection-start-column="106" selection-end-line="24" selection-end-column="106" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hooks-news/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="501">
-          <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+        <state relative-caret-position="76">
+          <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hooks-news/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
