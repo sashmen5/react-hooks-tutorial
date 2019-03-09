@@ -31,7 +31,7 @@ export default function TodoList() {
 						</button>
 						<button
 							onClick={async () => {
-								axios.delete(`https://hooks-api-hwx4ryn0e.now.sh/data.json`)
+								axios.delete(`https://hooks-api-hwx4ryn0e.now.sh/data.json`);
 								dispatch({type: "REMOVE_TODO", payload: todo})
 							}}
 						>
